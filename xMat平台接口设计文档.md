@@ -140,7 +140,7 @@ V0.35/草稿 |   梁贝   | 2018/05/16 | 修改检测设备升级的批量接口
   | userPhoneNo  | String  | 用户手机号                 |
   | userIcon     | String  | 用户头像url               |
   | identityAuth | Integer | 身份认证状态 1. 已认证  0. 未认证 |
-
+sdfsdfd
   示例:
 
   ```json
